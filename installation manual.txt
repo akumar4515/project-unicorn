@@ -1,0 +1,21 @@
+
+1:download and install nodejs 
+
+after installing node js
+
+
+2: open cmd or vs code terminal
+
+3: paste it -> git clone https://github.com/akumar4515/project-unicorn.git
+
+after cloning
+
+4: paste-> cd project unicorn
+
+after that
+
+5: paste-> npm install
+
+after installing via npm
+
+6: npm start
